@@ -1,0 +1,14 @@
+C:\uni\курс_2\сем_1\курсач\bin\Debug\net8.0\курсач.exe
+C:\uni\курс_2\сем_1\курсач\bin\Debug\net8.0\курсач.deps.json
+C:\uni\курс_2\сем_1\курсач\bin\Debug\net8.0\курсач.runtimeconfig.json
+C:\uni\курс_2\сем_1\курсач\bin\Debug\net8.0\курсач.dll
+C:\uni\курс_2\сем_1\курсач\bin\Debug\net8.0\курсач.pdb
+C:\uni\курс_2\сем_1\курсач\obj\Debug\net8.0\курсач.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\курс_2\сем_1\курсач\obj\Debug\net8.0\курсач.AssemblyInfoInputs.cache
+C:\uni\курс_2\сем_1\курсач\obj\Debug\net8.0\курсач.AssemblyInfo.cs
+C:\uni\курс_2\сем_1\курсач\obj\Debug\net8.0\курсач.csproj.CoreCompileInputs.cache
+C:\uni\курс_2\сем_1\курсач\obj\Debug\net8.0\курсач.dll
+C:\uni\курс_2\сем_1\курсач\obj\Debug\net8.0\refint\курсач.dll
+C:\uni\курс_2\сем_1\курсач\obj\Debug\net8.0\курсач.pdb
+C:\uni\курс_2\сем_1\курсач\obj\Debug\net8.0\курсач.genruntimeconfig.cache
+C:\uni\курс_2\сем_1\курсач\obj\Debug\net8.0\ref\курсач.dll
